@@ -1,0 +1,2 @@
+# DjangoCRUD
+django srud app
